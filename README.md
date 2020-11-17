@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👯 I’m looking to collaborate on some open source Node.js based project. Feel free to reach out to me using email.
+
 <!--
 **ruslanzharkov/ruslanzharkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
