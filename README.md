@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ruslanzharkov/ruslanzharkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
 
 **Languages and Technologies**
@@ -17,6 +15,6 @@ Now I'm focusing to React and React Native and I was starting to love React Nati
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ruslanzharkov) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ruslanzharkov.visitor-badge)](https://github.com/ruslanzharkov) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ruslanzharkov)
 Here are some ideas to get you started:
 
-- 🔭 I’m working at EPAM, in Belarus, Minsjk
+- 🔭 I’m working at EPAM, in Belarus, Minsk
 - ❤️ I love React, Typescript, React Native and Node.js
 - 📫 How to reach me: zharkov.ruslan.e@gmail.com
