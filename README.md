@@ -15,6 +15,5 @@ Now I'm focusing on React, React Native and Node.js. I love interesting animatio
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ruslanzharkov) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ruslanzharkov.visitor-badge)](https://github.com/ruslanzharkov) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ruslanzharkov)
 Here are some ideas to get you started:
 
-- 🔭 I’m working at EPAM, in Belarus, Minsk
 - ❤️ I love React, Typescript, React Native and Node.js
 - 📫 How to reach me: zharkov.ruslan.e@gmail.com
