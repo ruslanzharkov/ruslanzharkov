@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
+Now I'm focusing on React, React Native and Node.js. I love interesting animations, beautiful UI. 
 
 **Languages and Technologies**
 
